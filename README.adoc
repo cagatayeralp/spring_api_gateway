@@ -1,0 +1,4 @@
+this project contains 3 modules
+-a basic microservice based on springboot
+-naming server : eureka
+-spring cloud gateway
